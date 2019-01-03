@@ -1,14 +1,17 @@
+# ide plataform
+.idea/
+nbproject/
+.vscode/
+*.iml
+
+
 # Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+out/
+gen/
+logs/
+out/*.class
+gen/*.class
+logs/*.log
 
 # Package Files #
 *.jar

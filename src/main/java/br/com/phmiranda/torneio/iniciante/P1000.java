@@ -2,7 +2,7 @@
  * Author: phmiranda
  * Project: torneio
  * Task Number: 1000
- * Description: Hello World
+ * Description: https://www.beecrowd.com.br/judge/pt/problems/view/1000
  * Date: 26/04/2022
  */
 

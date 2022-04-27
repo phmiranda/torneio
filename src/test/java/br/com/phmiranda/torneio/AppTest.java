@@ -5,7 +5,7 @@
  * Date: 07/07/2020
  */
 
-package br.com.urionline;
+package br.com.phmiranda.torneio;
 
 import static org.junit.Assert.assertTrue;
 

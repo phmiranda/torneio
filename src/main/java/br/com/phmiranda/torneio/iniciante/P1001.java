@@ -20,16 +20,16 @@ public class P1001 {
         // Leitura de dados
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("DIGITE O PRIMEIRO VALOR: ");
+        System.out.println("DIGITE O PRIMEIRO VALOR (A): ");
         a = scanner.nextInt();
 
-        System.out.println("DIGITE O SEGUNDO VALOR: ");
+        System.out.println("DIGITE O SEGUNDO VALOR (B): ");
         b = scanner.nextInt();
 
         // Calcula a soma dos dois valores
         x = a + b;
 
         // Imprime o resultado na tela para o usuário
-        System.out.println("X = " + x);
+        System.out.println("VALOR DE X = " + x);
     }
 }

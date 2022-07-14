@@ -8,8 +8,14 @@
 
 package br.com.phmiranda.torneio.iniciante;
 
+import java.util.Scanner;
+
 public class P1000 {
     public static void main(String[] args) {
-        System.out.println("Olá mundo..!!!");
+        String nome;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("DIGITE O SEU NOME: ");
+        nome = scanner.next();
+        System.out.println("OLA " + nome + ", BEM VINDO AO PRIMEIRO PROGRAMA EM JAVA");
     }
 }

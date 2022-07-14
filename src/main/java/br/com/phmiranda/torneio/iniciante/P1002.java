@@ -8,11 +8,21 @@
 
 package br.com.phmiranda.torneio.iniciante;
 
+import java.util.Scanner;
+
 public class P1002 {
     public static void main(String[] args) {
         Double area;
         Double raio;
-        Double constanteDePi = 3.14159;
-        Double resultado;
+        Double constante = 3.14159;
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("DIGITE O VALOR DO RAIO: ");
+
+        raio = scanner.nextDouble();
+
+        area = constante * (raio * raio);
+
+        System.out.println("AREA DO CIRCULO: " + area);
     }
 }

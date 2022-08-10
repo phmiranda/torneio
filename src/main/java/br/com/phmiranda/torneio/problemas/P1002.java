@@ -6,7 +6,7 @@
  * Date: 28/04/2022
  */
 
-package br.com.phmiranda.torneio.iniciante;
+package br.com.phmiranda.torneio.problemas;
 
 import java.util.Scanner;
 
